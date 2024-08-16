@@ -1,19 +1,27 @@
 #EXTM3U
 #EXTINF:-1,|BG| CHANNEL S
+#EXTGRP: Bangladesh
 http://crystalott.net:80/DY3KJSPQQS/LQUZJ4WHJV/4726
 #EXTINF:-1,|BG| TV UK
+#EXTGRP: Bangladesh
 http://crystalott.net:80/DY3KJSPQQS/LQUZJ4WHJV/4725
 #EXTINF:-1,|BG| NTV
+#EXTGRP: Bangladesh
 http://crystalott.net:80/DY3KJSPQQS/LQUZJ4WHJV/4724
 #EXTINF:-1,|BG| ATN BANGLA
+#EXTGRP: Bangladesh
 http://crystalott.net:80/DY3KJSPQQS/LQUZJ4WHJV/4723
 #EXTINF:-1,|BG| ION TV
+#EXTGRP: Bangladesh
 http://crystalott.net:80/DY3KJSPQQS/LQUZJ4WHJV/4721
 #EXTINF:-1,|BG| TV ONE
+#EXTGRP: Bangladesh
 http://crystalott.net:80/DY3KJSPQQS/LQUZJ4WHJV/4720
 #EXTINF:-1,|BG| COLORS BANGLA HD
+#EXTGRP: Bangladesh
 http://crystalott.net:80/DY3KJSPQQS/LQUZJ4WHJV/4718
 #EXTINF:-1,|BG| ZEE 24 GHANTA
+#EXTGRP: India | Bangla
 http://crystalott.net:80/DY3KJSPQQS/LQUZJ4WHJV/4717
 #EXTINF:-1,|BG| JALSHA MOVIES
 http://crystalott.net:80/DY3KJSPQQS/LQUZJ4WHJV/4716
